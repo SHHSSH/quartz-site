@@ -10,7 +10,7 @@ import CustomFooter from "./quartz/components/CustomFooter"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Bananarama",
+    pageTitle: "🪴 Bananarama11",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
